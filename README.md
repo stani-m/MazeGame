@@ -1,0 +1,1 @@
+This is a simple game that I made as a school project. The game consists of searching for the end of a randomly generated maze. It uses the Veldrid library to display graphics.
